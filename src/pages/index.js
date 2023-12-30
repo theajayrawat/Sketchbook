@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <Menu />
       <Toolbox />
-      {/* <Board /> */}
+      <Board />
     </>
   )
 }
